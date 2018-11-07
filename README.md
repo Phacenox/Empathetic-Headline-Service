@@ -15,6 +15,9 @@ submissions.html
 report.css
 report.html(used as a basis for a response in app.js)
 
+If you want to view the logic of our conversation bot, upload training/empathetic-headline-workspace.json
+to your watson assistant workspace
+
 you can find presentation materials here: https://docs.google.com/presentation/d/1V5MyQyGDUY_d1SB2yc9MS2fm5HYJUDZ2w3Uz6Or5Soc/edit?usp=sharing
 
 To run this server locally, navigate to this folder in command prompt, and do
